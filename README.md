@@ -1,4 +1,4 @@
-image-class
+php image class
 ===========
 
 ## 验证码图片
